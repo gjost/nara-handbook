@@ -2,8 +2,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Nara Handbook 1995
-=========================================
+.. image:: _static/cover.jpg
 
 .. toctree::
    :maxdepth: 2
