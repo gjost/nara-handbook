@@ -202,7 +202,7 @@ html_theme_path = [
 
 # alabaster
 html_theme_options = {
-    'logo': 'logo.jpg',
+    'logo': '1024px-Horyu-ji10s3200.jpg',
     'logo_name': 'true',
     #'description': 'DESCRIPTION',
     #'analytics_id': 'UA-#######-##',
