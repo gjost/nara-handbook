@@ -1,0 +1,5 @@
+###########
+IV. Worship
+###########
+
+A comprehensive listing of services would quickly go out of date, so instead of listing everything here we suggest looking in Kansai Time Out.  Each month KTO devotes a page to most of the services in the Kansai Region.  In addition, they also list festival times, locations and dates.  In your community you will probably find more than one small, nondescript temple.  Odds are that this is Jodo-Shinshu, a sect of Buddhism.  Their services are surprisingly similar to some Christian services (complete with hymns and organs), and they would love to have you there.  However, unlike most Western religions, Buddhist services usually do not meet every week, but instead only on special occasions.  In addition to Buddhist services, most communities will have a Shinto shrine where festivals take place a few times a year.  Needless to say, most will not be listed in KTO.  Both the Buddhist and Shinto activities are great opportunities to meet people in your community.
